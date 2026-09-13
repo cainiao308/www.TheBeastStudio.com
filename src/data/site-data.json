@@ -76,8 +76,7 @@
       "images": [
         "assets/images/projects/made-in-future/cover.jpg"
       ],
-      "source": "unresolved",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "split",
@@ -125,8 +124,7 @@
       "images": [
         "assets/images/projects/vice/cover.jpg"
       ],
-      "source": "unresolved",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "anticipation",
@@ -143,8 +141,7 @@
       "images": [
         "assets/images/projects/anticipation/cover.jpg"
       ],
-      "source": "unresolved",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "decay",
@@ -196,8 +193,7 @@
       "images": [
         "assets/images/projects/3000/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "diversed",
@@ -213,8 +209,7 @@
       "images": [
         "assets/images/projects/diversed/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "enigma",
@@ -230,8 +225,7 @@
       "images": [
         "assets/images/projects/enigma/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "fcuk-fcuk",
@@ -247,8 +241,7 @@
       "images": [
         "assets/images/projects/fcuk-fcuk/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "fragmentation-blankhiss-chapter-vi",
@@ -264,8 +257,7 @@
       "images": [
         "assets/images/projects/fragmentation-blankhiss-chapter-vi/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "from-another-world",
@@ -281,8 +273,7 @@
       "images": [
         "assets/images/projects/from-another-world/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "wikimedia-similar"
     },
     {
       "slug": "from-then-and-on",
@@ -300,8 +291,7 @@
       "images": [
         "assets/images/projects/from-then-and-on/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "gold-blankhiss-chapter-vi",
@@ -318,8 +308,7 @@
       "images": [
         "assets/images/projects/gold-blankhiss-chapter-vi/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "infinite-worlds",
@@ -342,8 +331,7 @@
       "images": [
         "assets/images/projects/infinite-worlds/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "mdas",
@@ -359,8 +347,7 @@
       "images": [
         "assets/images/projects/mdas/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "nude",
@@ -392,8 +379,7 @@
       "images": [
         "assets/images/projects/the-dark-guardian/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "the-fallen-naut",
@@ -413,8 +399,7 @@
       "images": [
         "assets/images/projects/the-fallen-naut/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "a-la-mode",
@@ -435,8 +420,7 @@
       "images": [
         "assets/images/projects/a-la-mode/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "change",
@@ -452,8 +436,7 @@
       "images": [
         "assets/images/projects/change/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "dan-nar-yi",
@@ -471,8 +454,7 @@
       "images": [
         "assets/images/projects/dan-nar-yi/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "doll",
@@ -488,8 +470,7 @@
       "images": [
         "assets/images/projects/doll/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "erode",
@@ -505,8 +486,7 @@
       "images": [
         "assets/images/projects/erode/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "fast-light",
@@ -554,8 +534,7 @@
       "images": [
         "assets/images/projects/possibilities/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "secret",
@@ -571,8 +550,7 @@
       "images": [
         "assets/images/projects/secret/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "tangled",
@@ -588,8 +566,7 @@
       "images": [
         "assets/images/projects/tangled/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "the-queen",
@@ -607,8 +584,7 @@
       "images": [
         "assets/images/projects/the-queen/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "tribute-to-fonts",
@@ -630,8 +606,7 @@
       "images": [
         "assets/images/projects/tribute-to-fonts/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "underneath",
@@ -647,8 +622,7 @@
       "images": [
         "assets/images/projects/underneath/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "bass",
@@ -666,8 +640,7 @@
       "images": [
         "assets/images/projects/bass/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "create",
@@ -683,8 +656,7 @@
       "images": [
         "assets/images/projects/create/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "float",
@@ -700,8 +672,7 @@
       "images": [
         "assets/images/projects/float/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "follow-the-shapes",
@@ -733,8 +704,7 @@
       "images": [
         "assets/images/projects/futuristic-love/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "galactic-glamor",
@@ -754,8 +724,7 @@
       "images": [
         "assets/images/projects/galactic-glamor/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "geomatrix",
@@ -771,8 +740,7 @@
       "images": [
         "assets/images/projects/geomatrix/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "illusions",
@@ -789,8 +757,7 @@
       "images": [
         "assets/images/projects/illusions/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "psdfan-similar"
     },
     {
       "slug": "insanity",
@@ -808,8 +775,7 @@
       "images": [
         "assets/images/projects/insanity/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "into-the-void",
@@ -841,8 +807,7 @@
       "images": [
         "assets/images/projects/japan/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "me-against-the-world",
@@ -859,8 +824,7 @@
       "images": [
         "assets/images/projects/me-against-the-world/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "behance-similar"
     },
     {
       "slug": "omg",
@@ -877,8 +841,7 @@
       "images": [
         "assets/images/projects/omg/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "poison",
@@ -896,8 +859,7 @@
       "images": [
         "assets/images/projects/poison/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "posters",
@@ -919,8 +881,7 @@
       "images": [
         "assets/images/projects/posters/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "rage",
@@ -936,8 +897,7 @@
       "images": [
         "assets/images/projects/rage/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "smile",
@@ -954,8 +914,7 @@
       "images": [
         "assets/images/projects/smile/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "psdfan-similar"
     },
     {
       "slug": "teachers-vs-juniors",
@@ -972,8 +931,7 @@
       "images": [
         "assets/images/projects/teachers-vs-juniors/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "the-beasts-new-logo",
@@ -989,8 +947,7 @@
       "images": [
         "assets/images/projects/the-beasts-new-logo/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "the-invasion",
@@ -1006,8 +963,7 @@
       "images": [
         "assets/images/projects/the-invasion/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     },
     {
       "slug": "tranquility",
@@ -1066,8 +1022,7 @@
       "images": [
         "assets/images/projects/digital-life/cover.jpg"
       ],
-      "source": "generated",
-      "cover_placeholder": true
+      "source": "unsplash-similar"
     }
   ],
   "works": [
@@ -1088,8 +1043,7 @@
       "year": "2011",
       "cover": "assets/images/thumbs/madthrills.jpg",
       "href": "/works/madthrills/",
-      "source": "unresolved",
-      "cover_placeholder": true,
+      "source": "unsplash-similar",
       "images": [
         "assets/images/projects/madthrills/cover.jpg"
       ]
@@ -1113,8 +1067,7 @@
       "year": "2011",
       "cover": "assets/images/thumbs/broadway-myanmar-travels-identity.jpg",
       "href": "/works/broadway-myanmar-travels-identity/",
-      "source": "unresolved",
-      "cover_placeholder": true,
+      "source": "unsplash-similar",
       "images": [
         "assets/images/projects/broadway-myanmar-travels-identity/cover.jpg"
       ]
