@@ -1,6 +1,6 @@
 # ASSETS — provenance
 
-All images are **self-hosted** under `assets/images/`. No live hotlinks to `behance.vo.llnwd.net`.
+All images are **self-hosted** under `public/assets/images/`. No live hotlinks to `behance.vo.llnwd.net`.
 
 ## Chrome (logo / header)
 
@@ -24,16 +24,21 @@ Original May 2012 chrome hashes (`2-263979-...`) were **not** in the Wayback CDX
 | Decay | `thumbs/decay.jpg` | **web** — PSDFan `moepikesoe13.jpg` |
 | Splash Some Love | `thumbs/splash-some-love.jpg` + wallpaper thumb | **web** — PSDFan `moepikesoe12.jpg` + **customize.org** larger thumb via Wayback |
 
+## Showcase — filled (additional)
+
+| Project | File | Source |
+|---------|------|--------|
+| Pan!k \| iPhone Cases | `thumbs/pank-iphone-cases.jpg` + `projects/pank-iphone-cases/cover.jpg` | **wordpress** — post `2012/02/17/pank-iphone-cover-series/` image `20120217-004704.jpg` |
+
 ## Showcase — unresolved (geometric SVG placeholders)
 
-Exact covers/detail images for these were on the dead CDN and not found in Wayback CDX / Behance live CDN / WordPress / PSDFan under matching titles:
+Exact covers/detail images for these were on the dead CDN and not found in Wayback CDX / Behance live CDN / WordPress / PSDFan under matching titles (Behance project IDs known from ProSite HTML; CDN hashes listed in `beast-fetch/all-image-urls.txt` but no archived captures):
 
-| Project | Placeholder | Notes |
-|---------|-------------|-------|
-| MADE IN FUTURE | `thumbs/made-in-future.svg` | HTML/text recovered from Wayback project page; images unresolved |
-| Pan!k \| iPhone Cases | `thumbs/pank-iphone-cases.svg` | Text recovered; Redbubble shop linked historically |
-| VICE | `thumbs/vice.svg` | Text recovered from Wayback |
-| Anticipation | `thumbs/anticipation.svg` | Text recovered from Wayback |
+| Project | Behance ID | Placeholder | Notes |
+|---------|------------|-------------|-------|
+| MADE IN FUTURE | `3423611` | `thumbs/made-in-future.svg` | og:image `87615e47…jpg`; HTML/text recovered; CDX empty for project folder |
+| VICE | `2855515` | `thumbs/vice.svg` | Text recovered; CDX empty |
+| Anticipation | `2241974` | `thumbs/anticipation.svg` | Text recovered; CDX empty |
 
 ## Works
 
@@ -42,8 +47,8 @@ Exact covers/detail images for these were on the dead CDN and not found in Wayba
 | KhiMera | **wayback** `projects/3756086/98aaf16a...jpg` |
 | The Glitz | **web** — PSDFan `moepikesoe7.jpg` |
 | Cloud 9 Studio | **wayback** `projects/3022913/ca84ca6c...jpg` |
-| MadThrills | **unresolved** — SVG placeholder |
-| Broadway Myanmar Travels | **unresolved** — SVG placeholder |
+| MadThrills | **unresolved** — SVG placeholder (Behance `1316605`; og `ec74951c…jpg`; CDX empty) |
+| Broadway Myanmar Travels | **unresolved** — SVG placeholder (Behance `1937385`; og `596fb8b5…jpg`; CDX empty) |
 
 ## Period extras (not used as wrong covers)
 
@@ -62,3 +67,11 @@ From **wordpress** (`moepike.wordpress.com` uploads, 2012) → `assets/images/pr
 ## Dead CDN policy
 
 Do **not** reintroduce `http://behance.vo.llnwd.net/...` hotlinks. Prefer `http://web.archive.org/web/TIMESTAMP/id_/ORIGINAL` when recovering more assets later.
+
+## 2026-09-13 search pass
+
+- Queried Wayback CDX for `profiles11/280453/projects/{3423611,2867621,2855515,2241974,1316605,1937385}/*` — no captures (unlike Love/Dust/KhiMera folders which were archived).
+- Live Behance `/gallery/{id}/` returns 400 for those legacy IDs; Common Crawl index returned no captures for MADE IN FUTURE CDN path.
+- WordPress: **Pan!k** authentic cover recovered from `moepike.wordpress.com/2012/02/17/pank-iphone-cover-series/`. Other WP posts (Dreams Kill sneak peek, Sex Lights, New Project collage) do **not** match remaining unresolved titles — left in blog/`_extras` only.
+- PSDFan feature list does not include MADE IN FUTURE / VICE / Anticipation / MadThrills / Broadway.
+- `_extras/` not substituted as wrong-title covers.
