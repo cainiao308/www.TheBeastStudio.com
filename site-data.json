@@ -181,6 +181,893 @@
         "assets/images/projects/splash-some-love/wallpaper-thumb.jpg"
       ],
       "source": "psdfan+customize.org"
+    },
+    {
+      "slug": "3000",
+      "title": "3000",
+      "description": "Personal work driven with inspirations from science fiction movies and TV shows.",
+      "year": "2013",
+      "fields": "Digital Art, Graphic Design, Retouching",
+      "href": "/showcase/3000/",
+      "texts": [
+        "Download Wallpapers Here ."
+      ],
+      "cover": "assets/images/thumbs/3000.jpg",
+      "images": [
+        "assets/images/projects/3000/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "diversed",
+      "title": "DIVERSED",
+      "description": "Experiment with 3D objects & photo manipulation.",
+      "year": "2013",
+      "fields": "Digital Art, Graphic Design",
+      "href": "/showcase/diversed/",
+      "texts": [
+        "Download wallpaper HERE!"
+      ],
+      "cover": "assets/images/thumbs/diversed.jpg",
+      "images": [
+        "assets/images/projects/diversed/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "enigma",
+      "title": "ENIGMA",
+      "description": "A collaborative project between a photographer, a make up artist and a retoucher/designer.",
+      "year": "2013",
+      "fields": "Photography, Retouching",
+      "href": "/showcase/enigma/",
+      "texts": [
+        "T H A N K Y O U F O R Y O U R A T T E N T I O N."
+      ],
+      "cover": "assets/images/thumbs/enigma.jpg",
+      "images": [
+        "assets/images/projects/enigma/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "fcuk-fcuk",
+      "title": "FCUK | fcuk",
+      "description": "Surprised by amount of 'attention' is given on the Internet.",
+      "year": "2013",
+      "fields": "Digital Art, Typography",
+      "href": "/showcase/fcuk-fcuk/",
+      "texts": [
+        "THE BEAST"
+      ],
+      "cover": "assets/images/thumbs/fcuk-fcuk.jpg",
+      "images": [
+        "assets/images/projects/fcuk-fcuk/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "fragmentation-blankhiss-chapter-vi",
+      "title": "Fragmentation | BlankHiss Chapter VI",
+      "description": "Inspired by the strength and fragility of Will Power.",
+      "year": "2013",
+      "fields": "Digital Art, Graphic Design, Illustration",
+      "href": "/showcase/fragmentation-blankhiss-chapter-vi/",
+      "texts": [
+        "FULL EXHIBITION HERE."
+      ],
+      "cover": "assets/images/thumbs/fragmentation-blankhiss-chapter-vi.jpg",
+      "images": [
+        "assets/images/projects/fragmentation-blankhiss-chapter-vi/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "from-another-world",
+      "title": "FROM ANOTHER WORLD",
+      "description": "Inspired by deep space beauty and possibility of perfect essence.",
+      "year": "2013",
+      "fields": "Digital Art, Retouching",
+      "href": "/showcase/from-another-world/",
+      "texts": [
+        "Inspired by deep space beauty and possibility of perfect essence."
+      ],
+      "cover": "assets/images/thumbs/from-another-world.jpg",
+      "images": [
+        "assets/images/projects/from-another-world/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "from-then-and-on",
+      "title": "FROM THEN AND ON",
+      "description": "First artwork created for Evoke Art Collective.",
+      "year": "2013",
+      "fields": "Digital Art",
+      "href": "/showcase/from-then-and-on/",
+      "texts": [
+        "VISION : Since the beginning of the universe, TIME has been flowing like a unstoppable river. Among all the galaxies in the space, there's a small blue planet called EARTH. Same thing on the earth, many millenia has passed along with the rise and falls of different type of beings and civilizations. This artwork focuses on the two of the most powerful beings that have ever lived on the surfaces of the planet. Many seconds, minutes, hours, years, and decades have passed. What will be left behind when it all ends? SOFTWARES USED : Cinema4D, Realflow and Photoshop CC DURATION : ≈ 35 hours with divided sessions over 2 months.",
+        "FULL ARTWORK",
+        "Thank you for your attention. I hope everybody enjoy my first contribution for Evoke Art Collective. HTTP://EVOKEONE.COM"
+      ],
+      "cover": "assets/images/thumbs/from-then-and-on.jpg",
+      "images": [
+        "assets/images/projects/from-then-and-on/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "gold-blankhiss-chapter-vi",
+      "title": "GOLD | BlankHiss Chapter VI",
+      "description": "A poster created from inspiring words of the poem by J. R. R. Tolkien",
+      "year": "2013",
+      "fields": "Graphic Design, Typography",
+      "href": "/showcase/gold-blankhiss-chapter-vi/",
+      "texts": [
+        "FULL EXHIBITION HERE.",
+        "I'm sure you're thinking my handwriting is definitely not my GOLD. ;)"
+      ],
+      "cover": "assets/images/thumbs/gold-blankhiss-chapter-vi.jpg",
+      "images": [
+        "assets/images/projects/gold-blankhiss-chapter-vi/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "infinite-worlds",
+      "title": "INFINITE WORLDS",
+      "description": "A sereis of photograph taken with an iPhone 5 camera. Used VSCO Cam app for most editing.",
+      "year": "2013",
+      "fields": "Digital Photography, Photography",
+      "href": "/showcase/infinite-worlds/",
+      "texts": [
+        "STORY BEHIND THE PROJECT. Although I am not a professional photographer, I love taking pictures and see the world from a different point of view. In June of 2013, I acquired a set of lens for my iPhone. The set includes a macro lens, which I have used the most for this project. With the help from the lens, I saw what I have been missing or have been ignoring for my whole life. I have been living in a world so big, I have forgotten about the little worlds around me. From dust on a car window to a cluster of moss on a tree trunk, there are so many stories behind them. I hope you enjoy looking at the project. And this is just part one.... -",
+        "MATERIALS . 3 in 1 lens for iPhone 5. . VSCO Cam app , Filterstorm Pro app . Piction app (typographic caption series is here .) . Instagram -",
+        "1.. 2... 3... & START REALIZING. -",
+        "-Dust on a car window.",
+        "-Top of a soda can.",
+        "-My girlfriend's hair.",
+        "-Walls in a toilet.",
+        "-water dropping from shower."
+      ],
+      "cover": "assets/images/thumbs/infinite-worlds.jpg",
+      "images": [
+        "assets/images/projects/infinite-worlds/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "mdas",
+      "title": "M!DAS",
+      "description": "Personal Typography in 3D.",
+      "year": "2013",
+      "fields": "Digital Art, Typography",
+      "href": "/showcase/mdas/",
+      "texts": [
+        "www.THEBEASTSTUDIO.com"
+      ],
+      "cover": "assets/images/thumbs/mdas.jpg",
+      "images": [
+        "assets/images/projects/mdas/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "nude",
+      "title": "NUDE",
+      "description": "A quick experiments  pack of wallpapers. Special thanks to Marcus Ranum for his stock pictures.",
+      "year": "2013",
+      "fields": "Digital Art, Illustration",
+      "href": "/showcase/nude/",
+      "texts": [
+        "DOWNLOAD HERE."
+      ],
+      "cover": "assets/images/thumbs/nude.jpg",
+      "images": [
+        "assets/images/projects/nude/cover.jpg"
+      ],
+      "source": "psdfan+_extras"
+    },
+    {
+      "slug": "the-dark-guardian",
+      "title": "THE DARK GUARDIAN",
+      "description": "Created for Cosmosys Art Collective Chapter XI. Theme: Self-Portrait. \"Portrays the dark side of me\".",
+      "year": "2013",
+      "fields": "Digital Art, Illustration",
+      "href": "/showcase/the-dark-guardian/",
+      "texts": [
+        "CHECK THE FULL EXHIBITION HERE."
+      ],
+      "cover": "assets/images/thumbs/the-dark-guardian.jpg",
+      "images": [
+        "assets/images/projects/the-dark-guardian/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "the-fallen-naut",
+      "title": "The Fallen Naut",
+      "description": "My first wallpaper created for 2013 Desktopography exhbition.",
+      "year": "2013",
+      "fields": "Digital Art",
+      "href": "/showcase/the-fallen-naut/",
+      "texts": [
+        "IN 2010, I STARTED TO USE PHOTOSHOP AND DECIDED TO BECOME A DIGITAL ARTISTS/DESIGNER. SINCE THEN I HAVE ALWAYS ADMIRED THE DESKTOPOGRAPHY WALLPAPERS CREATED BY WORLD BEST DIGITAL ARTISTS AND I WANTED TO BE A PART OF IT. THIS YEAR, I DECIDED TO DIVE IN.",
+        "stocks used",
+        "with the help of insomnia and 8 hours later...",
+        "DOWNLOAD WALLPAPERS. 15\" RETINA | 2560x1400 HTTP://DESKTOPOGRAPHY.NET",
+        "I hope you enjoy it."
+      ],
+      "cover": "assets/images/thumbs/the-fallen-naut.jpg",
+      "images": [
+        "assets/images/projects/the-fallen-naut/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "a-la-mode",
+      "title": "À La Mode",
+      "description": "First Episode of Allure.",
+      "year": "2013",
+      "fields": "MakeUp Arts (MUA), Photography, Retouching",
+      "href": "/showcase/a-la-mode/",
+      "texts": [
+        "A BEAUTY PROJECT",
+        "ART DIRECTION & MODEL: ARIEL THUTA PHOTOGRAPH: LIN TUN MAKE UP ART: MAY OO RETOUCHING & GRAPHIC DESIGN: MOE PIKE SOE",
+        "As usual we all get together finding inspiration to work on something that the Myanmar audience has never seen before. With the talent from amazing MUA and direction from our beautiful chic model, we created one of a kind fashion/beauty shoot. One of the hardest part would be naming the project since we had different feel of photos and all of them don't go under one title. We have a lot of pictures to present to you so we devided the project into 5 parts with 5 different styles. The first episode is Ã La Mode. Please enjoy the simple yet elegant styling by Ariel Thuta and amazing hair done by May Oo.",
+        "Yeap, that's our graphic designer and retoucher, Moe Pike, modelling along with Ariel.",
+        "Below are the picture of what you can expect from upcoming episodes.",
+        "We hope you enjoyed the first part of the project. And stay tuned for more photos!"
+      ],
+      "cover": "assets/images/thumbs/a-la-mode.jpg",
+      "images": [
+        "assets/images/projects/a-la-mode/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "change",
+      "title": "CHANGE",
+      "description": "Submission for BlankHiss Chapter IV : Metamorphosis",
+      "year": "2012",
+      "fields": "Digital Art, Illustration, Retouching",
+      "href": "/showcase/change/",
+      "texts": [
+        "Submission for BlankHiss Chapter IV : Metamorphosis"
+      ],
+      "cover": "assets/images/thumbs/change.jpg",
+      "images": [
+        "assets/images/projects/change/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "dan-nar-yi",
+      "title": "DAN NAR YI",
+      "description": "My Bumese typography work for BlankHiss' Chapter V.",
+      "year": "2012",
+      "fields": "Digital Art, Graphic Design, Typography",
+      "href": "/showcase/dan-nar-yi/",
+      "texts": [
+        "Download Free Wallpaper Pack HERE!",
+        "Thank You For Your Attention",
+        "BlankHiss | Moe Pike Soe"
+      ],
+      "cover": "assets/images/thumbs/dan-nar-yi.jpg",
+      "images": [
+        "assets/images/projects/dan-nar-yi/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "doll",
+      "title": "DOLL",
+      "description": "Super Beauty Retouched 'Doll'.",
+      "year": "2012",
+      "fields": "Digital Photography, Retouching",
+      "href": "/showcase/doll/",
+      "texts": [
+        "Super Beauty Retouched 'Doll'."
+      ],
+      "cover": "assets/images/thumbs/doll.jpg",
+      "images": [
+        "assets/images/projects/doll/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "erode",
+      "title": "ERODE",
+      "description": "Submission for BlankHiss Chapter IV: Metamorphosis",
+      "year": "2012",
+      "fields": "Digital Art, Illustration, Retouching",
+      "href": "/showcase/erode/",
+      "texts": [
+        "Submission for BlankHiss Chapter IV: Metamorphosis"
+      ],
+      "cover": "assets/images/thumbs/erode.jpg",
+      "images": [
+        "assets/images/projects/erode/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "fast-light",
+      "title": "FAST LIGHT",
+      "description": "Light Experiments from KhiMera Artworks",
+      "year": "2012",
+      "fields": "Art Direction, Digital Art, Digital Photography",
+      "href": "/showcase/fast-light/",
+      "texts": [
+        "A series we found during our photo shoot for AUTOMOBILE JOURNAL Model: Ariel Thuta Art Director + Illustration : Moe Pike Soe Photographer: Nick Kaung"
+      ],
+      "cover": "assets/images/thumbs/fast-light.jpg",
+      "images": [
+        "assets/images/projects/fast-light/cover.jpg"
+      ],
+      "source": "psdfan+_extras"
+    },
+    {
+      "slug": "hate",
+      "title": "HATE",
+      "description": "A Personal Type Treatment.",
+      "year": "2012",
+      "fields": "Digital Art, Typography",
+      "href": "/showcase/hate/",
+      "texts": [
+        "Grab Wallpaper HERE ."
+      ],
+      "cover": "assets/images/thumbs/hate.jpg",
+      "images": [
+        "assets/images/projects/hate/cover.jpg"
+      ],
+      "source": "psdfan+_extras"
+    },
+    {
+      "slug": "possibilities",
+      "title": "POSSIBILITIES",
+      "description": "A collaboration between me and Maciek Ptaszynski.",
+      "year": "2012",
+      "fields": "Digital Art, Retouching",
+      "href": "/showcase/possibilities/",
+      "texts": [
+        "A collaboration between me and Maciek Ptaszynski."
+      ],
+      "cover": "assets/images/thumbs/possibilities.jpg",
+      "images": [
+        "assets/images/projects/possibilities/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "secret",
+      "title": "SECRET",
+      "description": "Personal Artwork inspired by Secrets",
+      "year": "2012",
+      "fields": "Digital Art, Graphic Design, Retouching",
+      "href": "/showcase/secret/",
+      "texts": [
+        "Personal Artwork inspired by Secrets"
+      ],
+      "cover": "assets/images/thumbs/secret.jpg",
+      "images": [
+        "assets/images/projects/secret/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "tangled",
+      "title": "TANGLED",
+      "description": "A Personal Artwork",
+      "year": "2012",
+      "fields": "Digital Art, Illustration",
+      "href": "/showcase/tangled/",
+      "texts": [
+        "A Personal Artwork"
+      ],
+      "cover": "assets/images/thumbs/tangled.jpg",
+      "images": [
+        "assets/images/projects/tangled/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "the-queen",
+      "title": "THE QUEEN",
+      "description": "1 of 4 contributions for BlankHiss Chapter V",
+      "year": "2012",
+      "fields": "Digital Art, Graphic Design, Illustration",
+      "href": "/showcase/the-queen/",
+      "texts": [
+        "Download Free Wallpaper Pack HERE!",
+        "Thank You For Your Attention.",
+        "Moe Pike Soe | BlankHiss"
+      ],
+      "cover": "assets/images/thumbs/the-queen.jpg",
+      "images": [
+        "assets/images/projects/the-queen/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "tribute-to-fonts",
+      "title": "TRIBUTE TO FONTS",
+      "description": "My way of saying thank you for all the designers that designed these amazing fonts.",
+      "year": "2012",
+      "fields": "Graphic Design, Typography",
+      "href": "/showcase/tribute-to-fonts/",
+      "texts": [
+        "www.cassannet.net",
+        "www.fontfabric.com",
+        "www.dharmatype.com",
+        "HELVETICA!",
+        "www.otamatypeface.com",
+        "www.mrfrutka.com",
+        "www.blastto.es"
+      ],
+      "cover": "assets/images/thumbs/tribute-to-fonts.jpg",
+      "images": [
+        "assets/images/projects/tribute-to-fonts/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "underneath",
+      "title": "UNDERNEATH",
+      "description": "Collaboration between Moe Pike Soe & HAK Lewis Lim",
+      "year": "2012",
+      "fields": "Digital Art, Digital Photography, Retouching",
+      "href": "/showcase/underneath/",
+      "texts": [
+        "Collaboration between Moe Pike Soe & HAK Lewis Lim"
+      ],
+      "cover": "assets/images/thumbs/underneath.jpg",
+      "images": [
+        "assets/images/projects/underneath/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "bass",
+      "title": "Bass",
+      "description": "A collab between Me and Nyein Chan Soe.",
+      "year": "2011",
+      "fields": "Illustration, Graphic Design",
+      "href": "/showcase/bass/",
+      "texts": [
+        "Bass Collab between Me and Nyein Chan Soe's Photography.",
+        "After my first collab with Dario Calonaci, I learnt that you can find new ideas and ways of expressing when you 'collab' with another artist. This time I contacted Nyein Chan Soe, who is pretty famous in my hometown for being a really cool portrait photographer, and he said 'YES!' I already like the lighting he had with the photo so I didnt really touch the part except changing the exposure to bring out more details on the shirt and a shinier hair. The model got an earphone so what came into my mind is the deep bass that I love. I put some vectors and objects that show the explosion and deepness and colorful techno shapes. Hope you like it!",
+        "Original photo by Nyein Chan Soe."
+      ],
+      "cover": "assets/images/thumbs/bass.jpg",
+      "images": [
+        "assets/images/projects/bass/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "create",
+      "title": "Create",
+      "description": "A personal work. Inspired by the creation of all the bad and good things in life...",
+      "year": "2011",
+      "fields": "Typography, Graphic Design",
+      "href": "/showcase/create/",
+      "texts": [
+        "Create.. We all have the freedom of creating..."
+      ],
+      "cover": "assets/images/thumbs/create.jpg",
+      "images": [
+        "assets/images/projects/create/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "float",
+      "title": "Float",
+      "description": "Well.. All people want to swim or get tanned at the beach. Have you ever thought about floating on the beach?",
+      "year": "2011",
+      "fields": "Typography, Graphic Design",
+      "href": "/showcase/float/",
+      "texts": [
+        "Float Get loose and be free!"
+      ],
+      "cover": "assets/images/thumbs/float.jpg",
+      "images": [
+        "assets/images/projects/float/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "follow-the-shapes",
+      "title": "Follow the Shapes",
+      "description": "Geometric / shape-driven personal work from the early ProSite gallery.",
+      "year": "2011",
+      "fields": "Digital Art, Graphic Design",
+      "href": "/showcase/follow-the-shapes/",
+      "texts": [
+        "Follow the Shapes — early geometric experiments."
+      ],
+      "cover": "assets/images/thumbs/follow-the-shapes.jpg",
+      "images": [
+        "assets/images/projects/follow-the-shapes/cover.jpg"
+      ],
+      "source": "psdfan+_extras"
+    },
+    {
+      "slug": "futuristic-love",
+      "title": "Futuristic Love",
+      "description": "A personal project inspired by space and galaxy.",
+      "year": "2011",
+      "fields": "Typography, Graphic Design, Illustration",
+      "href": "/showcase/futuristic-love/",
+      "texts": [
+        "Futuristic Love Inspired by space, aliens, and love for universe."
+      ],
+      "cover": "assets/images/thumbs/futuristic-love.jpg",
+      "images": [
+        "assets/images/projects/futuristic-love/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "galactic-glamor",
+      "title": "Galatic Glamor",
+      "description": "A personal Photo Illustration",
+      "year": "2011",
+      "fields": "Photo Illustration, Graphic Design",
+      "href": "/showcase/galactic-glamor/",
+      "texts": [
+        "Galatic Glamor Photo Illustration by Moe Pike",
+        "Galatic Glamor | Light Version",
+        "Galatic Glamor | Dark Version",
+        "| Details |",
+        "| Posters |"
+      ],
+      "cover": "assets/images/thumbs/galactic-glamor.jpg",
+      "images": [
+        "assets/images/projects/galactic-glamor/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "geomatrix",
+      "title": "Geomatrix",
+      "description": "I tried to make my design much more simpler and stick to the principle of designs. I came up with the idea of making geometric shape posters with color themes.",
+      "year": "2011",
+      "fields": "Graphic Design",
+      "href": "/showcase/geomatrix/",
+      "texts": [
+        "Geomatrix Squares, Circles, Triangles and everything in between..."
+      ],
+      "cover": "assets/images/thumbs/geomatrix.jpg",
+      "images": [
+        "assets/images/projects/geomatrix/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "illusions",
+      "title": "Illusions",
+      "description": "Collab with Thiha Soul Photography.",
+      "year": "2011",
+      "fields": "Graphic Design, Photo Illustration",
+      "href": "/showcase/illusions/",
+      "texts": [
+        "Illusion Another Collaboration with an amazing landscape photographer.",
+        "Two is better than one. It has always been a phrase that use to say to prove that team play is better than a solo player. A graphic designer like myself cannot survive alone. We need resources to make great art pieces and works. We need amazing stock pictures. And here, Thiha Soel, is a professional landscape photographer. His love for nature and wildness drew my attention and push my designing skills to mix my style with his 'natureness'. It was pretty difficult at first. I couldn't decide what to design. With the help of the internet and books and magazines, I get more inspirations and I finally had the chance to put up with this art piece. You can view amazing photos that are taken by Thiha Soul at http://thihasoul.com Hope you all like it. Cheers."
+      ],
+      "cover": "assets/images/thumbs/illusions.jpg",
+      "images": [
+        "assets/images/projects/illusions/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "insanity",
+      "title": "Insanity | Free Wallpaper.",
+      "description": "Insanity | Free Wallpapers!",
+      "year": "2011",
+      "fields": "Digital Art, Graphic Design",
+      "href": "/showcase/insanity/",
+      "texts": [
+        "Insanity",
+        "I believe that the more insane a person is, the more he or she can be creative. All the great artist were insane in a way. Either they can be pretty stupid sometime or pretty awesome in an insane way. The awesome render of the crystal rocks are downloaded from depthcore.com and they are created by the amazing artist called Finnian MacManus. GO CHECK IT OUT!! Scroll down to get the wallpapers!",
+        "Download at http://customize.org/wallpapers/84682"
+      ],
+      "cover": "assets/images/thumbs/insanity.jpg",
+      "images": [
+        "assets/images/projects/insanity/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "into-the-void",
+      "title": "Into The Void",
+      "description": "Into the Void. Inspired by the space and love for galaxy.",
+      "year": "2011",
+      "fields": "Photo Illustration, Photo Manipulation",
+      "href": "/showcase/into-the-void/",
+      "texts": [
+        "Into The Void"
+      ],
+      "cover": "assets/images/thumbs/into-the-void.jpg",
+      "images": [
+        "assets/images/projects/into-the-void/cover.jpg"
+      ],
+      "source": "psdfan+_extras"
+    },
+    {
+      "slug": "japan",
+      "title": "Japan",
+      "description": "These are the illustrations to raise the awareness of terrible Japan's earthquake.",
+      "year": "2011",
+      "fields": "Graphic Design",
+      "href": "/showcase/japan/",
+      "texts": [
+        "Resurrection Let The Sun Rise Again..."
+      ],
+      "cover": "assets/images/thumbs/japan.jpg",
+      "images": [
+        "assets/images/projects/japan/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "me-against-the-world",
+      "title": "Me Against The Fckn World.",
+      "description": "A hired work from a friend of mine who wants a fresh and unique piece of poster.",
+      "year": "2011",
+      "fields": "Typography, Graphic Design",
+      "href": "/showcase/me-against-the-world/",
+      "texts": [
+        "Me Against The Fckn World. In the end there will only be chaos!",
+        "One day, Soe Thiha Thein a good friend of mine, contacted me and he said he wanted something new and unique poster just for him! So he gave me the words and i tried to create a new set of fonts and just do what i usually do and here is the outcome! I hope you all love it and than ks to my friend who gave some work to do. :)"
+      ],
+      "cover": "assets/images/thumbs/me-against-the-world.jpg",
+      "images": [
+        "assets/images/projects/me-against-the-world/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "omg",
+      "title": "OMG",
+      "description": "A personal photo illustration",
+      "year": "2011",
+      "fields": "Photo Illustration, Graphic Design",
+      "href": "/showcase/omg/",
+      "texts": [
+        "It is a surprise. Just like splash of water for my sleepy face.",
+        "| A personal Illustration by Moe Pike Soe |"
+      ],
+      "cover": "assets/images/thumbs/omg.jpg",
+      "images": [
+        "assets/images/projects/omg/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "poison",
+      "title": "Poison",
+      "description": "A Collaboration With a friend of mine.",
+      "year": "2011",
+      "fields": "Graphic Design, Photo Illustration",
+      "href": "/showcase/poison/",
+      "texts": [
+        "Poison Killed with One Touch",
+        "Original Photo",
+        "Thank you for your time and appreciation!"
+      ],
+      "cover": "assets/images/thumbs/poison.jpg",
+      "images": [
+        "assets/images/projects/poison/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "posters",
+      "title": "Posters",
+      "description": "Another collection of the my posters. This time I tried to communicate audience with cool and interesting words. Enjoy, People!",
+      "year": "2011",
+      "fields": "Typography, Graphic Design, Digital Art",
+      "href": "/showcase/posters/",
+      "texts": [
+        "Posters You must believe what you're seeing.",
+        "This is another collection of my art pieces. I've been trying to communicate with people with my posters. I have been trying to collect cool and interesting words to put as a phrase into the posters. Enjoy, people. :)",
+        "Dark Fantasy",
+        "A Good Poster",
+        "Bloated with Love",
+        "The Dunks",
+        "Reminisce"
+      ],
+      "cover": "assets/images/thumbs/posters.jpg",
+      "images": [
+        "assets/images/projects/posters/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "rage",
+      "title": "Rage",
+      "description": "When you look up into the sky, you all might think it's all peaceful and quiet but you never know how all the stars are dying and raging and they all are about to xpolode.",
+      "year": "2011",
+      "fields": "Graphic Design",
+      "href": "/showcase/rage/",
+      "texts": [
+        "Rage Unleash the beast within!"
+      ],
+      "cover": "assets/images/thumbs/rage.jpg",
+      "images": [
+        "assets/images/projects/rage/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "smile",
+      "title": "Smile :)",
+      "description": "An art piece made for project smile at www.promocjakultury.pl",
+      "year": "2011",
+      "fields": "Graphic Design, Illustration",
+      "href": "/showcase/smile/",
+      "texts": [
+        "Smile Stop thinking about all the bad things in life. Go out there and make someone smile. :)",
+        "One day a gentleman named marek wysoczynski contacted me and talked to me about a smile project he has been doing. The objective is to make someone smile as there are a lot of crisis going on in the world. Hope you all could join in and make a smile. More info are available at www.promocjakultury.pl"
+      ],
+      "cover": "assets/images/thumbs/smile.jpg",
+      "images": [
+        "assets/images/projects/smile/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "teachers-vs-juniors",
+      "title": "Teachers V.S. Juniors",
+      "description": "There was a fund raising event that teachers are playing against the juniors. I had to design a t-shirt so here's the outcome! :)",
+      "year": "2011",
+      "fields": "Typography, Graphic Design, Fashion",
+      "href": "/showcase/teachers-vs-juniors/",
+      "texts": [
+        "Teachers V.S. Juniors Sometime being smart aint the only option to survive! :D",
+        "There was a fund raising event in my school. I had to design a t-shirt design for the juniors who are playing against the teachers! I was in the team too! So here's the design we wore during the game!"
+      ],
+      "cover": "assets/images/thumbs/teachers-vs-juniors.jpg",
+      "images": [
+        "assets/images/projects/teachers-vs-juniors/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "the-beasts-new-logo",
+      "title": "The Beast's New Logo",
+      "description": "This is my fresh new logo!",
+      "year": "2011",
+      "fields": "Graphic Design",
+      "href": "/showcase/the-beasts-new-logo/",
+      "texts": [
+        "The Beast's New Logo My Fresh New Logo! :D"
+      ],
+      "cover": "assets/images/thumbs/the-beasts-new-logo.jpg",
+      "images": [
+        "assets/images/projects/the-beasts-new-logo/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "the-invasion",
+      "title": "The Invasion",
+      "description": "Found a tutorial on the web about creating a new set of futuristic fonts and i applied to the space scene i had earlier in my library.",
+      "year": "2011",
+      "fields": "Typography, Graphic Design",
+      "href": "/showcase/the-invasion/",
+      "texts": [
+        "The Invasion They are coming...."
+      ],
+      "cover": "assets/images/thumbs/the-invasion.jpg",
+      "images": [
+        "assets/images/projects/the-invasion/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "tranquility",
+      "title": "Tranquility | Free Wallpaper!",
+      "description": "A personal wallpaper project.",
+      "year": "2011",
+      "fields": "Illustration, Graphic Design",
+      "href": "/showcase/tranquility/",
+      "texts": [
+        "Tranquility When Boredom rules over my life, I make wallpapers! :]",
+        "Wallpaper",
+        "Download wallpaper at http://customize.org/wallpapers/84625"
+      ],
+      "cover": "assets/images/thumbs/tranquility.jpg",
+      "images": [
+        "assets/images/projects/tranquility/cover.jpg"
+      ],
+      "source": "psdfan+_extras"
+    },
+    {
+      "slug": "venusians",
+      "title": "Venusians",
+      "description": "Women are from Venus. Tried my best to portray the idea in my crazy mind. :)",
+      "year": "2011",
+      "fields": "Illustration, Graphic Design",
+      "href": "/showcase/venusians/",
+      "texts": [
+        "Venusians Women Are From Venus....",
+        "I have been wanting to do this project for a long time. I did not have the skills although I had the imagination. Now, I tried my best to portray what was on my crazy mind. I hope you all like it! You can download wallpapers here .",
+        "Wallpapers"
+      ],
+      "cover": "assets/images/thumbs/venusians.jpg",
+      "images": [
+        "assets/images/projects/venusians/cover.jpg"
+      ],
+      "source": "psdfan+_extras"
+    },
+    {
+      "slug": "digital-life",
+      "title": "Digital Life",
+      "description": "These are some of the works I've done recently. They don't have a theme because I didnt do them in like a project.I followed tutorials by professional artists but I modified theme and made it mine for some of these works. Hope You enjoy them.",
+      "year": "2010",
+      "fields": "Typography, Digital Art, Illustration",
+      "href": "/showcase/digital-life/",
+      "texts": [
+        "Digital Life when life outside is not good, I step inside and below are the outcomes of it.",
+        "These are some of the art works I've done recently. Some of the art pieces, are done by following tutorials of professional artists but I modified them and made them my way. I'm still a learner and it would be really nice to see critiques and advices from the audience so that I could become better. Feel Free to comment!",
+        "The Beast",
+        "Life Is Not Simple.",
+        "Cube Fantasy",
+        "All I Wanna Do Is......",
+        "Colorful Rain",
+        "This Time for Africa"
+      ],
+      "cover": "assets/images/thumbs/digital-life.jpg",
+      "images": [
+        "assets/images/projects/digital-life/cover.jpg"
+      ],
+      "source": "generated",
+      "cover_placeholder": true
     }
   ],
   "works": [

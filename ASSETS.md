@@ -88,3 +88,31 @@ Original Behance/CDN art for these titles was not recoverable. Covers below are 
 | MadThrills | `thumbs/madthrills.jpg` | DJ / club energy for Singapore DJ group brief |
 | Broadway Myanmar Travels | `thumbs/broadway-myanmar-travels-identity.jpg` | Teal/gold travel identity mood |
 
+## Expansion pass (2026-09-13 evening UTC+8)
+
+Recovered additional ProSite / gallery / digital-art / photography-retouch project pages from Wayback CDX (prefer 2011–2013; `id_` HTML). Homepage keeps the original ~10 geometric covers, then a **More from the archive** grid for the rest.
+
+### Counts
+- New showcase detail pages added: **49** (site total showcase: 59)
+- Image fill methods for new pages: **extras/PSDFan real art: 7**; **procedural generated stand-ins: 42**; wayback CDN recoveries this pass: 0
+
+### Real artwork reused from `_extras/` / PSDFan (matched titles)
+- `fast-light` → `projects/_extras/` or PSDFan feature image
+- `follow-the-shapes` → `projects/_extras/` or PSDFan feature image
+- `hate` → `projects/_extras/` or PSDFan feature image
+- `into-the-void` → `projects/_extras/` or PSDFan feature image
+- `nude` → `projects/_extras/` or PSDFan feature image
+- `tranquility` → `projects/_extras/` or PSDFan feature image
+- `venusians` → `projects/_extras/` or PSDFan feature image
+
+### Procedural / generated covers (not original art)
+Thematic JPG stand-ins for titles whose Behance CDN hashes were not in Wayback CDX. Files live at `thumbs/{slug}.jpg` and `projects/{slug}/cover.jpg`. Slugs:
+`3000`, `a-la-mode`, `bass`, `change`, `create`, `dan-nar-yi`, `digital-life`, `diversed`, `doll`, `enigma`, `erode`, `fcuk-fcuk`, `float`, `fragmentation-blankhiss-chapter-vi`, `from-another-world`, `from-then-and-on`, `futuristic-love`, `galactic-glamor`, `geomatrix`, `gold-blankhiss-chapter-vi`, `illusions`, `infinite-worlds`, `insanity`, `japan`, `mdas`, `me-against-the-world`, `omg`, `poison`, `possibilities`, `posters`, `rage`, `secret`, `smile`, `tangled`, `teachers-vs-juniors`, `the-beasts-new-logo`, `the-dark-guardian`, `the-fallen-naut`, `the-invasion`, `the-queen`, `tribute-to-fonts`, `underneath`
+
+### HTML fetch notes
+- CDX unique showcase-ish paths ~74; after dedupe vs shipped set and successful HTML extract: 48 pages + follow-the-shapes (image-only, text reconstructed).
+- Some URLs failed SSL/rate-limit retries (delicacy, paradigm-shift, after-the-end, the-other-half, digital-fruits, utopia, etc.) and were skipped.
+- Works: Wayback only had the same 5 already shipped. Blog: single 2013 ProSite blog capture already represented via WordPress-derived posts.
+
+### Policy
+Still never hotlink `behance.vo.llnwd.net`. Generated covers are labeled in `site-data.json` with `"cover_placeholder": true` and `"source": "generated"`.
