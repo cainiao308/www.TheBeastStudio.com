@@ -72,8 +72,10 @@
       "texts": [
         "Title: Made In Future. Purpose: AP 2D Design Portfolio / Personal / A Present For My Buddy"
       ],
-      "cover": "assets/images/thumbs/made-in-future.svg",
-      "images": [],
+      "cover": "assets/images/thumbs/made-in-future.jpg",
+      "images": [
+        "assets/images/projects/made-in-future/cover.jpg"
+      ],
       "source": "unresolved",
       "cover_placeholder": true
     },
@@ -96,7 +98,7 @@
     {
       "slug": "pank-iphone-cases",
       "title": "Pan!k | iPhone Cases",
-      "description": "iPhone case designs \u2014 available on Redbubble.",
+      "description": "iPhone case designs — available on Redbubble.",
       "year": "2012",
       "fields": "Product Design, Illustration",
       "href": "/showcase/pank-iphone-cases/",
@@ -119,8 +121,10 @@
       "texts": [
         "Photo Manipulation | Photo Illustration"
       ],
-      "cover": "assets/images/thumbs/vice.svg",
-      "images": [],
+      "cover": "assets/images/thumbs/vice.jpg",
+      "images": [
+        "assets/images/projects/vice/cover.jpg"
+      ],
       "source": "unresolved",
       "cover_placeholder": true
     },
@@ -132,11 +136,13 @@
       "fields": "Digital Art, Graphic Design",
       "href": "/showcase/anticipation/",
       "texts": [
-        "Anticipation \u2014 An AP 2D design Project",
+        "Anticipation — An AP 2D design Project",
         "Thank you for your time."
       ],
-      "cover": "assets/images/thumbs/anticipation.svg",
-      "images": [],
+      "cover": "assets/images/thumbs/anticipation.jpg",
+      "images": [
+        "assets/images/projects/anticipation/cover.jpg"
+      ],
       "source": "unresolved",
       "cover_placeholder": true
     },
@@ -148,7 +154,7 @@
       "fields": "Digital Art, Photo Manipulation",
       "href": "/showcase/decay/",
       "texts": [
-        "Decay | Death \u2014 A project for AP 2D design Class",
+        "Decay | Death — A project for AP 2D design Class",
         "It is tough for me to do what my AP art teacher wants me to do. We come from two different worlds."
       ],
       "cover": "assets/images/thumbs/decay.jpg",
@@ -185,17 +191,21 @@
       "year": "2012",
       "cover": "assets/images/thumbs/khimera.jpg",
       "href": "/works/khimera/",
-      "source": "wayback"
+      "source": "wayback",
+      "images": []
     },
     {
       "slug": "madthrills",
       "title": "MadThrills",
       "description": "Inspired by a DJ group in Singapore called MadThrills.",
       "year": "2011",
-      "cover": "assets/images/thumbs/madthrills.svg",
+      "cover": "assets/images/thumbs/madthrills.jpg",
       "href": "/works/madthrills/",
       "source": "unresolved",
-      "cover_placeholder": true
+      "cover_placeholder": true,
+      "images": [
+        "assets/images/projects/madthrills/cover.jpg"
+      ]
     },
     {
       "slug": "the-glitz",
@@ -204,17 +214,23 @@
       "year": "2012",
       "cover": "assets/images/thumbs/the-glitz.jpg",
       "href": "/works/the-glitz/",
-      "source": "psdfan"
+      "source": "psdfan",
+      "images": [
+        "assets/images/projects/the-glitz/cover.jpg"
+      ]
     },
     {
       "slug": "broadway-myanmar-travels-identity",
       "title": "Broadway Myanmar Travels | Identity",
       "description": "An identity project for a travel agent company.",
       "year": "2011",
-      "cover": "assets/images/thumbs/broadway-myanmar-travels-identity.svg",
+      "cover": "assets/images/thumbs/broadway-myanmar-travels-identity.jpg",
       "href": "/works/broadway-myanmar-travels-identity/",
       "source": "unresolved",
-      "cover_placeholder": true
+      "cover_placeholder": true,
+      "images": [
+        "assets/images/projects/broadway-myanmar-travels-identity/cover.jpg"
+      ]
     },
     {
       "slug": "cloud-9-studio-visual-identity",
@@ -223,7 +239,8 @@
       "year": "2012",
       "cover": "assets/images/thumbs/cloud-9-studio-visual-identity.jpg",
       "href": "/works/cloud-9-studio-visual-identity/",
-      "source": "wayback"
+      "source": "wayback",
+      "images": []
     }
   ]
 }

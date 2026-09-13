@@ -47,8 +47,8 @@ Exact covers/detail images for these were on the dead CDN and not found in Wayba
 | KhiMera | **wayback** `projects/3756086/98aaf16a...jpg` |
 | The Glitz | **web** — PSDFan `moepikesoe7.jpg` |
 | Cloud 9 Studio | **wayback** `projects/3022913/ca84ca6c...jpg` |
-| MadThrills | **unresolved** — SVG placeholder (Behance `1316605`; og `ec74951c…jpg`; CDX empty) |
-| Broadway Myanmar Travels | **unresolved** — SVG placeholder (Behance `1937385`; og `596fb8b5…jpg`; CDX empty) |
+| MadThrills | **generated** — see AI / procedural covers |
+| Broadway Myanmar Travels | **generated** — see AI / procedural covers |
 
 ## Period extras (not used as wrong covers)
 
@@ -75,3 +75,16 @@ Do **not** reintroduce `http://behance.vo.llnwd.net/...` hotlinks. Prefer `http:
 - WordPress: **Pan!k** authentic cover recovered from `moepike.wordpress.com/2012/02/17/pank-iphone-cover-series/`. Other WP posts (Dreams Kill sneak peek, Sex Lights, New Project collage) do **not** match remaining unresolved titles — left in blog/`_extras` only.
 - PSDFan feature list does not include MADE IN FUTURE / VICE / Anticipation / MadThrills / Broadway.
 - `_extras/` not substituted as wrong-title covers.
+
+## AI / procedural covers (2026-09-13)
+
+Original Behance/CDN art for these titles was not recoverable. Covers below are **newly generated thematic stand-ins** (procedural digital art matching each project brief), **not** Moe Pike originals. Documented so provenance stays honest.
+
+| Project | File | Basis |
+|---------|------|-------|
+| MADE IN FUTURE | `thumbs/made-in-future.jpg` | Futuristic geometric gift / space theme from project blurb |
+| VICE | `thumbs/vice.jpg` | Hot/red glam abstract from “hotness and badness” blurb |
+| Anticipation | `thumbs/anticipation.jpg` | Tension / AP 2D abstract |
+| MadThrills | `thumbs/madthrills.jpg` | DJ / club energy for Singapore DJ group brief |
+| Broadway Myanmar Travels | `thumbs/broadway-myanmar-travels-identity.jpg` | Teal/gold travel identity mood |
+
