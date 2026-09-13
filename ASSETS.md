@@ -7,7 +7,7 @@ All images are **self-hosted** under `public/assets/images/`. No live hotlinks t
 | File | Source | Notes |
 |------|--------|-------|
 | `assets/images/chrome/logo.png` | **wayback** | `behance.vo.llnwd.net/.../prosite/2-559022-4e58e97c...png` via `20130312085148id_` |
-| `assets/images/chrome/header.jpg` | **wayback** | `.../prosite/2-559022-79e96258...jpg` via `20130312085151id_` |
+| `assets/images/chrome/header.jpg` | **wayback / artist** | Replaced empty ProSite frame with wide `header-alt` (Moe Pike “NEW WORK! / 3000” banner art from Wayback ProSite chrome set) so homepage top is real artwork, not a white hole. |
 | `assets/images/chrome/logo-alt.png` | **wayback** | Later ProSite logo (`2-642278-...`) |
 | `assets/images/chrome/header-alt.jpg` | **wayback** | Later ProSite header |
 
