@@ -1,0 +1,155 @@
+/* The Beast Studio — Tier B geometric ProSite restore (~2012) */
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:#000;
+  color:#c8c8c8;
+  font-family:Helvetica,Arial,"Helvetica Neue",sans-serif;
+  font-size:13px;
+  line-height:1.55;
+  min-height:100vh;
+}
+a{color:#ddd;text-decoration:none}
+a:hover{color:#fff}
+img{max-width:100%;height:auto;display:block;border:0}
+.site{
+  max-width:1034px;
+  margin:0 auto;
+  padding:18px 20px 60px;
+}
+/* Top bar: logo + spaced nav */
+.topbar{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:20px;
+  padding:8px 0 18px;
+  border-bottom:1px solid #222;
+  margin-bottom:22px;
+  flex-wrap:wrap;
+}
+.logo img{height:42px;width:auto;filter:none}
+.logo .logo-text{
+  font-size:15px;letter-spacing:4px;text-transform:uppercase;color:#eee;font-weight:700;
+}
+.nav{display:flex;align-items:center;gap:18px;flex-wrap:wrap;justify-content:flex-end}
+.nav a{
+  font-size:11px;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  color:#999;
+  padding:4px 0;
+  border-bottom:1px solid transparent;
+}
+.nav a:hover,.nav a.active{color:#fff;border-bottom-color:#555}
+.nav .social{display:inline-flex;gap:10px;margin-left:6px}
+.nav .social a{
+  width:18px;height:18px;border:1px solid #444;border-radius:2px;
+  display:inline-flex;align-items:center;justify-content:center;
+  font-size:9px;letter-spacing:0;color:#888;border-bottom:1px solid #444;
+}
+.nav .social a:hover{color:#fff;border-color:#888}
+/* Header banner */
+.header-banner{
+  margin:0 0 28px;
+  overflow:hidden;
+  border:1px solid #1a1a1a;
+}
+.header-banner img{width:100%;max-height:160px;object-fit:cover;object-position:center}
+/* Project grid — geometric covers */
+.project-grid{
+  display:grid;
+  grid-template-columns:repeat(5,1fr);
+  gap:14px;
+  margin:0 0 40px;
+}
+@media (max-width:900px){.project-grid{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:560px){.project-grid{grid-template-columns:repeat(2,1fr)}}
+.project-card{
+  position:relative;
+  display:block;
+  background:#0a0a0a;
+  border:1px solid #1e1e1e;
+  overflow:hidden;
+  aspect-ratio:192/142;
+}
+.project-card img,.project-card object{
+  width:100%;height:100%;object-fit:cover;
+  transition:transform .35s ease, opacity .35s ease;
+}
+.project-card .overlay{
+  position:absolute;inset:0;
+  background:linear-gradient(180deg,rgba(0,0,0,.15),rgba(0,0,0,.85));
+  opacity:0;transition:opacity .3s ease;
+  display:flex;flex-direction:column;justify-content:flex-end;
+  padding:12px;
+  color:#fff;
+}
+.project-card:hover .overlay{opacity:1}
+.project-card:hover img{transform:scale(1.04)}
+.project-card .ptitle{
+  font-size:12px;letter-spacing:1px;font-weight:700;margin:0 0 4px;color:#fff;
+}
+.project-card .pdesc{
+  font-size:10px;color:#bbb;margin:0;line-height:1.35;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.project-card .meta{font-size:9px;color:#777;margin-top:6px;letter-spacing:.5px}
+/* Project detail */
+.project-hero{margin:0 0 24px}
+.project-hero img,.project-hero object{
+  width:100%;max-height:70vh;object-fit:contain;background:#050505;
+  border:1px solid #1a1a1a;
+}
+.project-body{max-width:720px}
+.project-body h1{
+  margin:0 0 8px;font-size:22px;font-weight:700;color:#f0f0f0;
+  letter-spacing:1px;
+}
+.project-body .sub{
+  color:#777;font-size:11px;letter-spacing:1px;margin:0 0 18px;text-transform:uppercase;
+}
+.project-body p{margin:0 0 14px;color:#b0b0b0}
+.gallery{display:grid;gap:16px;margin:28px 0}
+.gallery img{width:100%;border:1px solid #1a1a1a;background:#050505}
+.back-link{display:inline-block;margin:8px 0 20px;font-size:11px;letter-spacing:2px;color:#777;text-transform:uppercase}
+.back-link:hover{color:#fff}
+/* Pages */
+.page-title{
+  font-size:18px;letter-spacing:4px;text-transform:uppercase;color:#eee;
+  margin:0 0 20px;font-weight:700;
+}
+.prose{max-width:640px;color:#b5b5b5}
+.prose h2{color:#eee;font-size:14px;letter-spacing:2px;text-transform:uppercase;margin:28px 0 10px}
+.prose p{margin:0 0 12px}
+.about-layout{display:grid;grid-template-columns:200px 1fr;gap:28px;align-items:start}
+@media (max-width:640px){.about-layout{grid-template-columns:1fr}}
+.about-photo{
+  width:100%;border:1px solid #2a2a2a;background:#111;aspect-ratio:3/4;
+  display:flex;align-items:center;justify-content:center;color:#555;font-size:11px;letter-spacing:1px;
+  text-align:center;padding:12px;
+}
+.resume-grid{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+@media (max-width:700px){.resume-grid{grid-template-columns:1fr}}
+.resume-block{border-top:1px solid #222;padding-top:12px}
+.resume-block h3{margin:0 0 8px;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#eee}
+.resume-block ul{margin:0;padding:0 0 0 16px;color:#aaa}
+.resume-block li{margin:0 0 6px}
+.blog-post{
+  border-bottom:1px solid #1c1c1c;padding:18px 0;
+}
+.blog-post h2{margin:0 0 6px;font-size:15px;color:#eee}
+.blog-post .date{font-size:10px;color:#666;letter-spacing:1px;margin:0 0 10px}
+.blog-post img{margin:12px 0;max-width:480px;border:1px solid #1a1a1a}
+/* Footer */
+.footer{
+  margin-top:48px;padding-top:18px;border-top:1px solid #1a1a1a;
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:11px;color:#666;line-height:1.6;
+}
+.footer .note{margin-top:8px;font-family:Helvetica,Arial,sans-serif;font-size:10px;color:#444}
+.missing-note{
+  border:1px dashed #333;padding:20px;color:#666;font-size:12px;letter-spacing:1px;
+  text-align:center;background:#080808;margin:12px 0;
+}

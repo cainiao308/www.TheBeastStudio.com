@@ -1,0 +1,228 @@
+{
+  "showcase": [
+    {
+      "slug": "picture-perfect",
+      "title": "Picture Perfect",
+      "description": "Picture Perfect | A Perfect Picture.",
+      "year": "2012",
+      "fields": "Digital Art, Graphic Design, Illustration",
+      "href": "/showcase/picture-perfect/",
+      "texts": [
+        "PHOTO ILLUSTRATION SERIES BY MOE PIKE SOE",
+        "She is definitely the most amazing thing happened in my life. She is pretty like a perfect picture."
+      ],
+      "cover": "assets/images/thumbs/picture-perfect.jpg",
+      "images": [
+        "assets/images/projects/picture-perfect/cover.jpg"
+      ],
+      "source": "psdfan"
+    },
+    {
+      "slug": "l-o-v-e-i-s-s-p-a-c-e",
+      "title": "L o v e i s S p a c e.",
+      "description": "A minimalistic art piece inspired by Space.",
+      "year": "2012",
+      "fields": "Digital Art, Graphic Design",
+      "href": "/showcase/l-o-v-e-i-s-s-p-a-c-e/",
+      "texts": [
+        "Where peace is valued and everything is tranquil, even the most complicated problem can be solved with space.",
+        "Thank you for your attention. May your day be peaceful and filled with happiness."
+      ],
+      "cover": "assets/images/thumbs/l-o-v-e-i-s-s-p-a-c-e.jpg",
+      "images": [
+        "assets/images/projects/l-o-v-e-i-s-s-p-a-c-e/01.jpg",
+        "assets/images/projects/l-o-v-e-i-s-s-p-a-c-e/02.jpg",
+        "assets/images/projects/l-o-v-e-i-s-s-p-a-c-e/03.jpg",
+        "assets/images/projects/l-o-v-e-i-s-s-p-a-c-e/04.jpg",
+        "assets/images/projects/l-o-v-e-i-s-s-p-a-c-e/05.jpg",
+        "assets/images/projects/l-o-v-e-i-s-s-p-a-c-e/06.jpg",
+        "assets/images/projects/l-o-v-e-i-s-s-p-a-c-e/07.jpg",
+        "assets/images/projects/l-o-v-e-i-s-s-p-a-c-e/08.jpg"
+      ],
+      "source": "wayback"
+    },
+    {
+      "slug": "dust",
+      "title": "DUST",
+      "description": "A present for a buddy.",
+      "year": "2012",
+      "fields": "Digital Art, Photo Manipulation",
+      "href": "/showcase/dust/",
+      "texts": [
+        "When Everything Is Gone, Where Will You Grab Your Last Hold?",
+        "Thank You For Your Attention"
+      ],
+      "cover": "assets/images/thumbs/dust.jpg",
+      "images": [
+        "assets/images/projects/dust/01.jpg",
+        "assets/images/projects/dust/cover.jpg",
+        "assets/images/projects/dust/dust-new.jpg",
+        "assets/images/projects/dust/dust-sneak1.jpg",
+        "assets/images/projects/dust/dust-sneak2.jpg"
+      ],
+      "source": "psdfan+wayback+wordpress"
+    },
+    {
+      "slug": "made-in-future",
+      "title": "MADE IN FUTURE",
+      "description": "AP 2D Design Portfolio / Personal / A Present For My Buddy",
+      "year": "2012",
+      "fields": "Digital Art, Graphic Design",
+      "href": "/showcase/made-in-future/",
+      "texts": [
+        "Title: Made In Future. Purpose: AP 2D Design Portfolio / Personal / A Present For My Buddy"
+      ],
+      "cover": "assets/images/thumbs/made-in-future.svg",
+      "images": [],
+      "source": "unresolved",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "split",
+      "title": "Split",
+      "description": "A Personal / AP 2D Studio Art Project",
+      "year": "2012",
+      "fields": "Digital Art, Illustration",
+      "href": "/showcase/split/",
+      "texts": [
+        "Title: Split. Purpose: AP 2D Design Portfolio / Personal"
+      ],
+      "cover": "assets/images/thumbs/split.jpg",
+      "images": [
+        "assets/images/projects/split/cover.jpg"
+      ],
+      "source": "psdfan"
+    },
+    {
+      "slug": "pank-iphone-cases",
+      "title": "Pan!k | iPhone Cases",
+      "description": "iPhone case designs \u2014 available on Redbubble.",
+      "year": "2012",
+      "fields": "Product Design, Illustration",
+      "href": "/showcase/pank-iphone-cases/",
+      "texts": [
+        "Check them out or buy them at Redbubble (twikz shop)."
+      ],
+      "cover": "assets/images/thumbs/pank-iphone-cases.svg",
+      "images": [],
+      "source": "unresolved",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "vice",
+      "title": "VICE",
+      "description": "Inspired by the hotness and badness of the women.",
+      "year": "2012",
+      "fields": "Photo Manipulation, Photo Illustration",
+      "href": "/showcase/vice/",
+      "texts": [
+        "Photo Manipulation | Photo Illustration"
+      ],
+      "cover": "assets/images/thumbs/vice.svg",
+      "images": [],
+      "source": "unresolved",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "anticipation",
+      "title": "Anticipation",
+      "description": "This is a project for my AP 2D design class.",
+      "year": "2011",
+      "fields": "Digital Art, Graphic Design",
+      "href": "/showcase/anticipation/",
+      "texts": [
+        "Anticipation \u2014 An AP 2D design Project",
+        "Thank you for your time."
+      ],
+      "cover": "assets/images/thumbs/anticipation.svg",
+      "images": [],
+      "source": "unresolved",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "decay",
+      "title": "Decay",
+      "description": "An AP 2D design project.",
+      "year": "2011",
+      "fields": "Digital Art, Photo Manipulation",
+      "href": "/showcase/decay/",
+      "texts": [
+        "Decay | Death \u2014 A project for AP 2D design Class",
+        "It is tough for me to do what my AP art teacher wants me to do. We come from two different worlds."
+      ],
+      "cover": "assets/images/thumbs/decay.jpg",
+      "images": [
+        "assets/images/projects/decay/cover.jpg"
+      ],
+      "source": "psdfan"
+    },
+    {
+      "slug": "splash-some-love",
+      "title": "Splash Some Love",
+      "description": "A Personal Type treatment.",
+      "year": "2011",
+      "fields": "Typography, Graphic Design",
+      "href": "/showcase/splash-some-love/",
+      "texts": [
+        "L.O.V.E. Splash Some LOVE",
+        "A Personal Type treatment.",
+        "Edited after a cup of chocolate milk."
+      ],
+      "cover": "assets/images/thumbs/splash-some-love.jpg",
+      "images": [
+        "assets/images/projects/splash-some-love/cover.jpg",
+        "assets/images/projects/splash-some-love/wallpaper-thumb.jpg"
+      ],
+      "source": "psdfan+customize.org"
+    }
+  ],
+  "works": [
+    {
+      "slug": "khimera",
+      "title": "KhiMera",
+      "description": "Logo for KhiMera Artworks.",
+      "year": "2012",
+      "cover": "assets/images/thumbs/khimera.jpg",
+      "href": "/works/khimera/",
+      "source": "wayback"
+    },
+    {
+      "slug": "madthrills",
+      "title": "MadThrills",
+      "description": "Inspired by a DJ group in Singapore called MadThrills.",
+      "year": "2011",
+      "cover": "assets/images/thumbs/madthrills.svg",
+      "href": "/works/madthrills/",
+      "source": "unresolved",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "the-glitz",
+      "title": "The Glitz",
+      "description": "Debut Series of KhiMera Artworks.",
+      "year": "2012",
+      "cover": "assets/images/thumbs/the-glitz.jpg",
+      "href": "/works/the-glitz/",
+      "source": "psdfan"
+    },
+    {
+      "slug": "broadway-myanmar-travels-identity",
+      "title": "Broadway Myanmar Travels | Identity",
+      "description": "An identity project for a travel agent company.",
+      "year": "2011",
+      "cover": "assets/images/thumbs/broadway-myanmar-travels-identity.svg",
+      "href": "/works/broadway-myanmar-travels-identity/",
+      "source": "unresolved",
+      "cover_placeholder": true
+    },
+    {
+      "slug": "cloud-9-studio-visual-identity",
+      "title": "Cloud 9 Studio | Visual Identity",
+      "description": "A visual identity for Cloud 9 Studio.",
+      "year": "2012",
+      "cover": "assets/images/thumbs/cloud-9-studio-visual-identity.jpg",
+      "href": "/works/cloud-9-studio-visual-identity/",
+      "source": "wayback"
+    }
+  ]
+}
